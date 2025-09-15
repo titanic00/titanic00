@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vitalii!
+# 👋 Hi, thanks for visiting!
 
 Welcome to my GitHub profile!  
 I am a **Java Fullstack and Backend Developer** specializing in **Java, Spring Boot, and modern web technologies**.  
@@ -46,6 +46,3 @@ Currently, I am actively looking for a **full-time position as a Java Software E
 - 💼 LinkedIn: [linkedin.com/in/vitalii-mishchenko](https://linkedin.com/in/vitalii-mishchenko)  
 - 📧 Email: *[your email address here]*  
 - 🌍 GitHub: [github.com/titanic00](https://github.com/titanic00)  
-
----
-✨ Thanks for visiting – feel free to connect! ✨
