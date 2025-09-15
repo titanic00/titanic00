@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 I am a **Java Fullstack and Backend Developer** specializing in **Java, Spring Boot, and modern web technologies**.  
-Currently, I am in the final year of my apprenticeship as an Application Developer at **valantic CEC Deutschland GmbH** – and I am actively looking for a **full-time position as a Java Software Engineer**.
+Currently, I am actively looking for a **full-time position as a Java Software Engineer**.
 
 ---
 
