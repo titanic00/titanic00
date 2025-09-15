@@ -44,5 +44,5 @@ Currently, I am actively looking for a **full-time position as a Java Software E
 
 ## 📫 Contact
 - 💼 LinkedIn: [linkedin.com/in/vitalii-mishchenko](https://linkedin.com/in/vitalii-mishchenko)  
-- 📧 Email: *[vitaliy.michschenko@gmail.com]*
+- 📧 Email: *vitaliy.michschenko@gmail.com*
 - 🌍 GitHub: [github.com/titanic00](https://github.com/titanic00)  
