@@ -1,25 +1,17 @@
 # 👋 Hi, thanks for visiting!
 
-Welcome to my GitHub profile!  
-I am a **Java Fullstack and Backend Developer** specializing in **Java, Spring Boot, and modern web technologies**.  
-Currently, I am actively looking for a **full-time position as a Java Software Engineer**.
-
 ---
 
-## 🚀 Tech Stack & Skills
+## ✍🏻 Projects in Progress
 
-- **Backend**: Java, Spring Boot, REST API, Docker  
-- **Frontend**: JavaScript, TypeScript, Vue.js 3, HTML5, CSS3  
-- **DevOps & Tools**: Git, GitLab CI/CD, GitHub Actions, Docker  
-- **Other**: Agile methodologies, Figma, Gulp, CSV/XLSX parsing  
+- **Cloud File Storage**: Multi-user file cloud. Users of the service can use it to upload and store files.
 
 ---
 
 ## 💼 Experience & Projects
 
 ### 📌 Apprenticeship – valantic CEC Deutschland GmbH (04/2023 – 01/2026)
-- Independently implemented customer tickets in the **PIM systems** area  
-- Developed internal web projects as a Fullstack Developer:
+- Developed web projects as a Fullstack Developer:
   - **Trainee Report App**: Digital management and approval of apprenticeship reports  
   - **Time Tracking App**: Analysis of billable hours via CSV/XLSX upload  
   - **Battery Passport Generator**: Creation and management of EU-compliant battery passports with QR code and REST API  
@@ -31,18 +23,15 @@ Currently, I am actively looking for a **full-time position as a Java Software E
 
 ### 🌐 Earlier Projects
 - **09/2022 – 04/2023**: Website implementation based on Figma layouts using **HTML, CSS, JavaScript, Gulp**  
-  🔗 [View my web projects](https://titanic00.github.io/My-works/)  
+  🔗 [View my web projects](https://titanic00.github.io/My-works/)
 
 ---
 
-## 🎯 Goals
-- Start a **full-time position as a Java Fullstack or Backend Software Engineer**  
-- Deepen my knowledge in **cloud technologies** (AWS, Azure, Kubernetes)  
-- Work in an innovative environment with **agile teams** and exciting projects  
+## 🚀 Tech Stack & Skills
+
+- **Backend**: Java, Spring Boot, REST API, Docker  
+- **Frontend**: JavaScript, TypeScript, Vue.js 3, HTML5, CSS3  
+- **DevOps & Tools**: Git, GitLab CI/CD, GitHub Actions, Docker  
+- **Other**: Agile methodologies, Figma, Gulp, CSV/XLSX parsing  
 
 ---
-
-## 📫 Contact
-- 💼 LinkedIn: [linkedin.com/in/vitalii-mishchenko](https://linkedin.com/in/vitalii-mishchenko)  
-- 📧 Email: *vitaliy.michschenko@gmail.com*
-- 🌍 GitHub: [github.com/titanic00](https://github.com/titanic00)  
