@@ -29,9 +29,7 @@
 
 ## 🚀 Tech Stack & Skills
 
-- **Backend**: Java, Spring Boot, REST API, Docker  
+- **Backend**: Java, Spring Boot, REST API, Docker, Redis 
 - **Frontend**: JavaScript, TypeScript, Vue.js 3, HTML5, CSS3  
 - **DevOps & Tools**: Git, GitLab CI/CD, GitHub Actions, Docker  
-- **Other**: Agile methodologies, Figma, Gulp, CSV/XLSX parsing  
-
----
+- **Other**: Agile methodologies, Figma, Gulp, CSV/XLSX parsing
