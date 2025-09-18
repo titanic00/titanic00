@@ -19,11 +19,11 @@
 ### 🛠 Freelance & Side Projects
 - **08/2024**: Development of an **employee management system** (web application with integrated calendar)  
 - **01–02/2025**: Development of an **interactive, mobile-first frontend app for a Sneaker Chatbot**  
-  🔗 [View Sneaker Chatbot](https://app.myeidos.ai/)  
+  🔗 [View Sneaker Chatbot](https://app.myeidos.ai/){:target="_blank"}
 
 ### 🌐 Earlier Projects
 - **09/2022 – 04/2023**: Website implementation based on Figma layouts using **HTML, CSS, JavaScript, Gulp**  
-  🔗 [View my web projects](https://titanic00.github.io/My-works/)
+  🔗 [View my web projects](https://titanic00.github.io/My-works/){:target="_blank"}
 
 ---
 
